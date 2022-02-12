@@ -5,3 +5,6 @@ Install these NuGet packages
 DeepAI.Client
 SipaaFramework
 Build in Debug
+
+
+TODO: Filter API response
